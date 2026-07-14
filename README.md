@@ -40,3 +40,19 @@ Build strong foundations in cybersecurity and cloud security and pursue higher s
 - Communication in a Connected World
 - Clients and Servers
 
+Linux
+
+✅ Command Line
+✅ Text Fu
+✅ User Management
+
+Networking
+
+✅ Module 1
+✅ Module 2
+✅ Module 3
+✅ Module 4 (85%)
+
+German
+
+Started Learn German with Anja A1
