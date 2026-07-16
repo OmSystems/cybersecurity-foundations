@@ -1,14 +1,29 @@
-# Linux System Info
+# Linux System Information
 
-A beginner Bash script that displays basic system information.
+## Description
+
+A beginner Bash script that displays useful Linux system information.
 
 ## Features
 
-- Current user
-- Current date
-- Current time
-- User groups
-- Linux kernel version
+- Current User
+- Current Date
+- Current Time
+- Current Groups
+- Kernel Version
+- Hostname
+- System Uptime
+- Linux Distribution
+- CPU Architecture
+- Current Working Directory
+
+## Concepts Learned
+
+- Variables
+- Functions
+- User Input
+- Command Substitution
+- ANSI Colors
 
 ## Run
 
